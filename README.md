@@ -1,2 +1,1 @@
-# XqWang.github.io
-Welcome to XiaoqiangWang's Homepage
+#Welcome to XiaoqiangWang's Homepage
